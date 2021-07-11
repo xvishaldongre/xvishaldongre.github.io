@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home of Vishal Dongre 👋 on xvishaldongre</title>
+    <link>https://xvishaldongre.github.io/</link>
+    <description>Recent content in Home of Vishal Dongre 👋 on xvishaldongre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xvishaldongre.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://xvishaldongre.github.io/about/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/about/</guid>
+      <description>I am Vishal Dongre. A student and developer who love creating things for solving problems. I currently lived in Madhya Pradesh, India. I got my first laptop when I was in High school, after that my fall in love with computers. Things that excites me most with computers you can create things from scratch and solve a real world problem, only limitation is your imagination and time.
+I&amp;rsquo;m currently pursuing Bachelor of Computer Applications (B.</description>
+    </item>
+    
+    <item>
+      <title>What I use</title>
+      <link>https://xvishaldongre.github.io/blog/tools/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/blog/tools/</guid>
+      <description>A list of all the tools I use.</description>
+    </item>
+    
+  </channel>
+</rss>

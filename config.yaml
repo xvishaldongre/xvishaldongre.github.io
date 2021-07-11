@@ -1,0 +1,55 @@
+theme: showfolio
+languageCode: en-us
+baseurl: "https://xvishaldongre.github.io"
+publishDir: "docs"
+title: xvishaldongre
+params:
+  name: Vishal Dongre
+  description: Vishal Dongre portfolio.
+  author: Vishal Dongre
+  authorEmail: xvishaldongre@gmail.com
+  authorImage: /profile-circle.png
+  autoDarkMode: true
+  copyright: Copyright © 2021 - Vishal Dongre · All rights reserved
+  favicon: favicon.ico
+  homepage:
+    title: "Hey \U0001F44B I'm Vishal Dongre"
+    tagline: Developer and Student
+    description: >-
+      I love creating things.
+    contact: "https://twitter.com/xvishaldongre"
+    resume:
+      skills:
+        - Languages - HTML/CSS, Javascript and Python 3
+        - Backend -  Node JS, MySQL
+        - Operating Systems - Linux (Ubuntu based distros) and Windows 10
+        - Tools - Git, VS Code
+      work:
+        - name: Startek, Aegis Customer Support Service Pvt. Ltd. , Chhindwara
+          role: Executive in Operations
+          duration: July 2019 - May 2020
+
+      education:
+        - degree: Bachelor of Computer Applications (B.C.A.)
+          college: Government Autonomous Post Graduate College, Chhindwara
+          year: 2018 - 2021
+        - degree: Class 12th
+          college: School of Excellence, Chhindwara
+          year: 2018
+        - degree: Class 10th
+          college: School of Excellence, Chhindwara
+          year: 2016
+
+      hobbies:
+        - Mobile Gaming
+        - Watching Movies
+    social:
+      twitter: "https://twitter.com/xvishaldongre"
+      linkedin: "https://linkedin.com/in/xvishaldongre1"
+      github: "https://github.com/xvishaldongre"
+      reddit: "https://reddit.com/xvishaldongre"
+build:
+  writeStats: true
+markup:
+  highlight:
+    style: dracula
