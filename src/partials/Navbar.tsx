@@ -20,7 +20,7 @@ const Navbar = () => (
 
       <NavMenu>
         <NavMenuItem href="https://github.com/xvishaldongre">GitHub</NavMenuItem>
-        <NavMenuItem href="https://twitter.com/xvishaldongre">Twitter</NavMenuItem>
+        <NavMenuItem href="https://www.linkedin.com/in/xvishaldongre">LinkedIn</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>

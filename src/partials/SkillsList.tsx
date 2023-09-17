@@ -6,7 +6,7 @@ const SkillsList = () => {
   const tools_and_techs = [
     { name: "AWS", icon: "/assets/icons/aws.svg", color: "hover:text-yellow-500" },
     { name: "Terraform", icon: "/assets/icons/terraform.svg", color: "hover:text-purple-500" },
-    { name: "Ansible", icon: "/assets/icons/ansible.svg", color: "hover:text-purple-500" },
+    { name: "Ansible", icon: "/assets/icons/ansible.svg", color: "hover:text-red-500" },
     { name: "Docker", icon: "/assets/icons/docker.svg", color: "hover:text-blue-500" },
     { name: "Kubernetes", icon: "/assets/icons/kubernetes.svg", color: "hover:text-blue-500" },
   
