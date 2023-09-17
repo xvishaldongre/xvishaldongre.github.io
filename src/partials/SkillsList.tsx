@@ -40,7 +40,7 @@ const SkillsList = () => {
       </>
     }
   >
-    <div className="w-full gap-x-8 rounded-md px-2 md:flex-row">
+    <div className="w-full gap-x-8 rounded-md md:flex-row">
       <h2 className="text-xl font-semibold mb-3">Tools and Platforms</h2>
 
       <div className=" mb-4 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 w-full gap-4 items-center mt-2">
