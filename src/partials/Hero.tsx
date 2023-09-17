@@ -26,14 +26,14 @@ const Hero = () => (
           adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. */}
         </>
       }
-      avatar={
-        <img
-          className="h-80 w-64"
-          src="/assets/images/avatar.svg"
-          alt="Avatar image"
-          loading="lazy"
-        />
-      }
+      // avatar={
+      //   <img
+      //     className="h-64 w-64"
+      //     src="/assets/images/profile.svg"
+      //     alt="Avatar image"
+      //     loading="lazy"
+      //   />
+      // }
       socialButtons={
         <>
           {/* <a href="/">
