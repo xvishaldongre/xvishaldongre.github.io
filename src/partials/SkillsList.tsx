@@ -29,8 +29,8 @@ const SkillsList = () => {
   ]
 
   const others = [
-    { name: "Linux", icon: "/assets/icons/linux.svg", color: "hover:text-gray-300" },
-    { name: "Git & Github", icon: "/assets/icons/git.svg", color: "hover:text-gray-300" },
+    { name: "Linux", icon: "/assets/icons/linux.svg", color: "hover:text-yellow-500" },
+    { name: "Git & Github", icon: "/assets/icons/git.svg", color: "hover:text-orange-500" },
   ]
 
   return <Section

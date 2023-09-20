@@ -15,7 +15,7 @@ const Hero = () => (
       }
       description={
         <>
-          I am a DevOps Engineer with 2 year of experience in building and maintaining cloud-based systems. As a DevOps professional, I am well-versed with the process and have extensive experience working with the tools and techonologies like AWS, Python, Docker and Terraform.
+          I am a DevOps Engineer with 2 years of experience in building and maintaining cloud-based systems. As a DevOps professional, I am well-versed in the process and have extensive experience working with tools and technologies like AWS, Python, Docker, and Terraform.
           {/* <a className="text-amber-400 hover:underline" href="/">
             malesuada
           </a>{' '}
